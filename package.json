@@ -1,0 +1,22 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahincom/responsive-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahincom/responsive-portfolio/issues"
+  },
+  "homepage": "https://github.com/leahincom/responsive-portfolio#readme",
+  "dependencies": {
+    "npm-sass": "^2.3.0"
+  }
+}
